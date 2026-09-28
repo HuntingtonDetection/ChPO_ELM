@@ -8,7 +8,7 @@ This repository contains the Google Colab implementation for Huntington Disease 
 
 
 
-1. Open `code+-.ipynb` in Google Colab.
+1. Open `code.ipynb` in Google Colab.
 2. Ensure GPU runtime is enabled (**Runtime > Change runtime type > T4 GPU**).
 3. Run all cells sequentially to reproduce feature extraction, training, evaluation, and plot generation.
 
